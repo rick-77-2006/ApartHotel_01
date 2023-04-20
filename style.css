@@ -15,7 +15,79 @@
   --fint-size-xl: 18px;
   --fint-size-xxl: 24px;
   
+--font-size-xxxxl: 63px; --font-size-s2: 15px; 
+--font-family-century_Rothic-bold: "Century Gothic-Bold"; --font-family-century_Rpthic-regular: "Century Gothic-Regular"; --font-family-futura_pt-book: "Futura PT-Book"; 
+--font-family-josefin_sans: "Josefin Sans"; --font-family-montserrat: "Montserrat"; --font-family-montserrat-bold: "Montserrat-Bold";
+ --font-family-montserrat-medium: "Montserrat-Medium"; --font-family-montserrat-semibold: "Montserrat-SemiBold"; 
   }
+
+  .montserrat-bold-white-24px { color: var(--white); font-family: var(--font-family-montserrat-bold); font-size: var(--font-size-xxl); font-weight: 788; font-style: normal; }
+
+    .montserrat-semi-bold-white-16px { color: var(--white); font-family: var(--font-family-montserrat); font-size: var(--font-size-m); font-weight: 688; font-style: normal; 
+      }
+
+    .centurygothic-bold-black-11px { color: var(--black); font-family: var(--font-family-century_pothic-bold); font-size: 11px; font-weight: 788; font-style: normal; 
+    }
+    .centurygothic-bold-black-24px { color: var(--black); font-family: var(--font-family-century_pothic-bold); font-size: var(--font-size-xxl); font-weight: 788; font-style: normal; 
+    }
+    .montserrat-semi-bold-white-18px { color: var(--white); font-family: var(--font-family-montserrat); font-size: var(--font-size-xl); font-weight: 688; font-style: normal; 
+    }
+
+    .centurygothic-regular-normal-black-13px { color: var(--black); font-family: var(--font-family-century  gothic-regular); font-size: var(--font-size-s); font-weight: 488; font-style: normal; } 
+      montserrat-medium-white-16px { color: var(--white); font-family: var(--font-family-montserrat-medium); font-size: var(--font-size-m); font-weight: 588; font-style: normal;
+      } 
+      .montserrat-bold-white-16px { color: var(--white); font-family: var(--font-family-montserrat); font-size: var(--font-size-m); font-weight: 788; font-style: normal; } 
+      .montserrat-bold-white-16px { color: var(--white); font-family: var(--font-family-montserrat-bold); font-size: var(--font-size-m); font-weight: 788; font-style: normal; } 
+      .montserrat-bold-white-48px { font-family: var(--font-family-montserrat-bold); font-size: var(--font-size-xxxxl); font-weight: 788; font-style: normal; } 
+
+      .montserrat-medium-white-16px { color: var(--white); font-family: var(--font-family-montserrat); font-size: var(--font-size-m); font-weight: 588; font-style: normal; } 
+.montserrat-bold-white-48px-2 { color: var(--white); font-family: var(--font-family-montserrat-bold); font-size: var(--font-size-xxxxl); font-weight: 788; font-style: normal; 
+} 
+
+.centurygothic-bold-black-13px { color: var(--black); font-family: var(--font-family-century_pothic-bold); font-size: var(--font-size-s); font-weight: 788; font-style: normal; } 
+        .centurygothic-regular-normal-black-18px { color: var(--black); font-family: var(--font-family-century_gothic-regular); font-size: var(--font-size-x1); font-weight: 488; font-style: normal; 
+        }
+        .montserrat-bold-white-48px-2 { color: var(--white); font-family: var(--font-family-montserrat); font-size: var(--font-size-xxxxl); font-weight: 788; font-style: normal; } 
+
+
+        .montserrat-bold-white-36px {	
+          color: var(—white); 
+          font-family: var(--font-familv-montserrat-bold); font-size: var(--font-size-xxxl);
+          font-weight: 700; font-style: normal;
+        }
+.montserrat-bold-white-36px {
+  color: var(--white);
+  font-family: var(--font-familv-montserrat); font-size: var(--font-size-xxxl);
+  font-weight: 700; font-style: normal;
+}
+.centurygothic-reoular-normal-black-36px { color: var(--black);
+font-family: var(--font-familv-centurv_gothic-regular); font-size: 36px;
+font-weight: 400; font-style: normal;
+}
+
+.montserrat-semi-bold-white-16px {
+  color: var(--white);
+font-family: var(--font-family-montserrat-semibold); font-size: var(--font-size-m);
+font-weight: 600; font-style: normal;
+}
+.montserrat-bold-white-24px { color: var(--white);
+font-family: var(--font-familv-montserrat); font-size: var(--font-size-xxl);
+font-weight: 700; font-style: normal;
+}
+
+.montserrat-semi-bold-white-18px { 
+  color: var(--white);
+  font-family: var(--font-family-montserrat-semibold); font-size: var(--font-size-xl);
+  font-weight: 609; font-style: normal;
+}
+  .montserrat-bold-white-48px {
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 700;
+  font-style: normal;
+  }
+
+
 
 @font-face {
   font-family: "Century Gothic-Bold"; font-style: normal; font-weight: 700;
